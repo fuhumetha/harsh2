@@ -1,5 +1,5 @@
 appdirs
-git+https://github.com/Anshusharma75/jhamak
+https://github.com/Anshusharma75/jhamak/archive/refs/heads/master.zip
 beautifulsoup4
 google-api-python-client
 google-auth-httplib2
@@ -13,7 +13,7 @@ pybase64
 hachoir
 pillow
 filesplit
-git+https://github.com/Anshusharma75/jati
+https://github.com/Anshusharma75/jati/archive/refs/heads/master.zip
 cfscrape
 Pyrogram==0.18.0
 python-dotenv
@@ -23,4 +23,4 @@ requests
 telegraph
 tenacity
 TgCrypto
-git+https://github.com/Anshusharma75/gandusaala
+https://github.com/Anshusharma75/gandusaala/archive/refs/heads/master.zip
